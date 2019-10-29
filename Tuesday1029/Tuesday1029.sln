@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqToArray", "LinqToArray\LinqToArray.csproj", "{3B4C1514-0422-41F8-A63D-8203938D06D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ_WAY", "LINQ_WAY\LINQ_WAY.csproj", "{31963FAD-4CAE-4F1B-9F9E-8494958BFC08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B4C1514-0422-41F8-A63D-8203938D06D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B4C1514-0422-41F8-A63D-8203938D06D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B4C1514-0422-41F8-A63D-8203938D06D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B4C1514-0422-41F8-A63D-8203938D06D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31963FAD-4CAE-4F1B-9F9E-8494958BFC08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31963FAD-4CAE-4F1B-9F9E-8494958BFC08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31963FAD-4CAE-4F1B-9F9E-8494958BFC08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31963FAD-4CAE-4F1B-9F9E-8494958BFC08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A0C52FF-09A1-4348-8D35-3AC8C3A26492}
+	EndGlobalSection
+EndGlobal
